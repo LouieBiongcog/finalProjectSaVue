@@ -12,8 +12,8 @@
   export default {
     methods: {
       getStarted() {
-        alert('Redirecting to Sign-Up page...');
-        this.$router.push('/signup');
+        alert('Redirecting to Dashboard page...');
+        this.$router.push('/Dashboard');
       },
     },
   };
